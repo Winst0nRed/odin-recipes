@@ -1,0 +1,30 @@
+
+#foodImg {
+    align-content: center;
+    height: 500px;
+    width: auto;
+}
+
+#titleElm,
+#sub,
+#anchorElm,
+#listElm {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+#sub {
+    font-size: 24px;
+}
+
+#anchorElm {
+    font-size: 20px;
+}
+
+#listElm {
+    font-size: 20px;
+   
+}
